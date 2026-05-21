@@ -24,4 +24,7 @@ L'objectif est de maîtriser les outils fondamentaux de l'industrie, de l'admini
 ## 🛠️ Commencer
 
 Pour explorer mes premiers pas avec le terminal Linux, rendez-vous directement dans le premier module :
-👉 **[Consulter le guide Linux Essentials](./01_linux_essentials/README.md)**
+👉 **[Consulter le guide Linux Essentials](./01_linux_essentials.md)**
+
+
+
